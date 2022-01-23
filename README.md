@@ -1,0 +1,1 @@
+# serverless-aurora-failover-golang
